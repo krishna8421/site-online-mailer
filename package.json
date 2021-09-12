@@ -1,0 +1,13 @@
+{
+  "name": "site-online-mailer",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.6",
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.12"
+  }
+}
